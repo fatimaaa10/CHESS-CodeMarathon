@@ -1,0 +1,102 @@
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\ChessApiDemo.csproj.AssemblyReference.cache
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\ChessApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\ChessApiDemo.AssemblyInfoInputs.cache
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\ChessApiDemo.AssemblyInfo.cs
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\ChessApiDemo.csproj.CoreCompileInputs.cache
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\ChessApiDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\ChessApiDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\bin\Debug\net8.0\appsettings.json
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\bin\Debug\net8.0\ChessApiDemo.exe
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\bin\Debug\net8.0\ChessApiDemo.deps.json
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\bin\Debug\net8.0\ChessApiDemo.runtimeconfig.json
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\bin\Debug\net8.0\ChessApiDemo.dll
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\bin\Debug\net8.0\ChessApiDemo.pdb
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\bin\Debug\net8.0\Npgsql.dll
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.ChessApiDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.ChessApiDemo.props
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChessApiDemo.props
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChessApiDemo.props
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\scopedcss\bundle\ChessApiDemo.styles.css
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\ChessApi.BA138E3D.Up2Date
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\ChessApiDemo.dll
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\refint\ChessApiDemo.dll
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\ChessApiDemo.pdb
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\ChessApiDemo.genruntimeconfig.cache
+C:\Users\abdul.tanwar\source\repos\ChessApiDemo\obj\Debug\net8.0\ref\ChessApiDemo.dll
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\bin\Debug\net8.0\appsettings.json
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\bin\Debug\net8.0\ChessApiDemo.exe
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\bin\Debug\net8.0\ChessApiDemo.deps.json
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\bin\Debug\net8.0\ChessApiDemo.runtimeconfig.json
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\bin\Debug\net8.0\ChessApiDemo.dll
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\bin\Debug\net8.0\ChessApiDemo.pdb
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\ChessApiDemo.csproj.AssemblyReference.cache
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\ChessApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\ChessApiDemo.AssemblyInfoInputs.cache
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\ChessApiDemo.AssemblyInfo.cs
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\ChessApiDemo.csproj.CoreCompileInputs.cache
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\ChessApiDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\ChessApiDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\staticwebassets\msbuild.ChessApiDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\staticwebassets\msbuild.build.ChessApiDemo.props
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChessApiDemo.props
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChessApiDemo.props
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\scopedcss\bundle\ChessApiDemo.styles.css
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\ChessApi.BA138E3D.Up2Date
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\ChessApiDemo.dll
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\refint\ChessApiDemo.dll
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\ChessApiDemo.pdb
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\ChessApiDemo.genruntimeconfig.cache
+C:\Users\Fatima.khan\Desktop\Chess\Chess_Project\Backend(.Net)\obj\Debug\net8.0\ref\ChessApiDemo.dll
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\bin\Debug\net8.0\appsettings.json
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\bin\Debug\net8.0\ChessApiDemo.exe
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\bin\Debug\net8.0\ChessApiDemo.deps.json
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\bin\Debug\net8.0\ChessApiDemo.runtimeconfig.json
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\bin\Debug\net8.0\ChessApiDemo.dll
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\bin\Debug\net8.0\ChessApiDemo.pdb
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\ChessApiDemo.csproj.AssemblyReference.cache
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\ChessApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\ChessApiDemo.AssemblyInfoInputs.cache
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\ChessApiDemo.AssemblyInfo.cs
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\ChessApiDemo.csproj.CoreCompileInputs.cache
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\ChessApiDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\ChessApiDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\staticwebassets\msbuild.ChessApiDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.ChessApiDemo.props
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChessApiDemo.props
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChessApiDemo.props
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\scopedcss\bundle\ChessApiDemo.styles.css
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\ChessApi.BA138E3D.Up2Date
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\ChessApiDemo.dll
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\refint\ChessApiDemo.dll
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\ChessApiDemo.pdb
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\ChessApiDemo.genruntimeconfig.cache
+C:\Users\Fatima.khan\Desktop\CM Chess\Backend\obj\Debug\net8.0\ref\ChessApiDemo.dll
