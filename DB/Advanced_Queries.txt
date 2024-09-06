@@ -1,0 +1,70 @@
+--------------------------------------Advance Queries-------------------------------
+
+
+--First Query : Retrieve the names of players along with their total number of matches won,
+--calculated as a percentage of their total matches played.
+--Display the full_name along with  Win_Percentage rounded to 4 decimals.
+
+SELECT
+    p.first_name || ' ' || p.last_name AS "Full Name",
+    ROUND((COUNT(m.winner_id) * 100.0) / NULLIF(p.total_matches_played, 0),4) AS Win_Percentage 
+FROM Players p
+LEFT JOIN Matches m
+ON p.player_id = m.winner_id
+GROUP BY p.first_name, p.last_name, p.total_matches_played;
+
+
+--Second Query :   Retrieve the match details for matches where the winner's current world ranking is among the top 5 players. 
+--Display the match date, winner's name, and the match level.
+
+SELECT
+    m.match_date,
+    p.first_name || ' ' || p.last_name AS winner_name,
+    m.match_level
+FROM Matches m
+JOIN Players p ON m.winner_id = p.player_id
+WHERE p.current_world_ranking <= 5;
+
+
+
+--Third Query :  Find the sponsors who are sponsoring the top 3 players based on their current world ranking. 
+--Display the sponsor name and the player's full name an their world ranking .
+
+SELECT
+    s.sponsor_name,
+    p.first_name || ' ' || p.last_name AS player_name,
+    p.current_world_ranking
+FROM Player_Sponsors ps
+JOIN Sponsors s ON ps.sponsor_id = s.sponsor_id
+JOIN Players p ON ps.player_id = p.player_id
+WHERE p.current_world_ranking <= 3;
+
+--Fourth Query : Retrieve the match details for matches where the winner's current world ranking is among the top 5 players.
+--Display the match date, winner's name, and the match level.
+
+SELECT 
+		m.match_date,
+		p.first_name || ' ' || p.last_name AS Winner_Name,
+        m.match_level,
+        CASE 
+            WHEN ((COUNT(m.winner_id) * 100.0) / p.total_matches_played )>75 THEN 'Excellent'
+            WHEN ((COUNT(m.winner_id) * 100.0) / p.total_matches_played ) BETWEEN 75 and 50 THEN 'Good'
+            WHEN ((COUNT(m.winner_id) * 100.0) / p.total_matches_played ) BETWEEN 50 and 25 THEN 'Average'
+            WHEN ((COUNT(m.winner_id) * 100.0) / p.total_matches_played )<25 THEN 'Needs Improvement'
+        END as Label
+    FROM Players p
+    LEFT JOIN Matches m ON p.player_id = m.winner_id
+    GROUP BY p.player_id,m.match_date,m.match_level;
+
+
+--Fifth Query : Retrieve the names of players who have never won a match (i.e., they have participated in matches but are not listed as a winner in any match). 
+--Display their full name and current world ranking.
+
+
+SELECT
+    p.first_name || ' ' || p.last_name AS full_name,
+    p.current_world_ranking
+FROM Players p
+LEFT JOIN Matches m 
+ON p.player_id = m.winner_id
+WHERE m.winner_id IS NULL;
